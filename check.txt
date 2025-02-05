@@ -8,3 +8,5 @@ Steps to use:
 3. It will display whether the string is a palindrome or not.
 
 Try it out with words like 'racecar', 'level' or a 'kayak'!
+
+Thank You
