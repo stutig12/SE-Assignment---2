@@ -7,4 +7,4 @@ Steps to use:
 2. The program will determine if it reads the same forward and backward.
 3. It will display whether the string is a palindrome or not.
 
-Try it out with words like 'racecar' or 'level'!
+Try it out with words like 'racecar', 'level' or a 'kayak'!
