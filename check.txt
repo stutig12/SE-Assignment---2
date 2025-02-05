@@ -1,0 +1,10 @@
+Palindrome Check Program
+
+This is a simple program that checks if a given string is palindromic.
+
+Steps to use:
+1. Enter a string when prompted.
+2. The program will determine if it reads the same forward and backward.
+3. It will display whether the string is a palindrome or not.
+
+Try it out with words like 'racecar' or 'level'!
